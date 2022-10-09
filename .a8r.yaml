@@ -1,0 +1,5 @@
+k8s_config:
+- manifest_path: /manifests
+  cluster_info:
+    cluster_id: 9724c6e7-a285-52cd-a325-48cb7b3e8a7c
+    cluster_name: Luis Hdez's cluster
